@@ -27,7 +27,7 @@ A convolutional neural network has been used to un-obfuscate the input facial im
 |:--:| 
 | *Model Summary* |
 
-## Result
+## Results
 
 While detailed results can be read in the project report, the result of training using perceptual loss function is attached. As we can see in these table, the model is able to reconstruct highly obfucated images. Therefore, this result should be seen with a pinch of salt. Maybe the model is overfitting because of which the results are spectacular. 
 
