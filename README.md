@@ -13,9 +13,9 @@ The first part of this project is data cleaning. We clean the data by standardiz
 
 In this project, we used 3 obfucation techniques- speckle noise, gaussian blur, and pixelation. The details of each of these noises are mentioned in the image. However, we can see here how these noises can alter an image. 
 
-![This is an image](/obfucation_images/noise_images.jpg)
-
-
+| ![noise_images.jpg](/obfucation_images/noise_images.jpg) | 
+|:--:| 
+| *Obfuscation techniques* |
 
 
 
